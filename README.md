@@ -1,4 +1,4 @@
-# ASCII
-My ascii project
-My little ascii "engine" project
-So far i have done basics, but i want to make more. 
+# Conway's game of life
+This is my take on conway's game of life. 
+
+I've done it long time ago, and the algorithm for detecting, whether to kill cell, or not is unnecery complicated
